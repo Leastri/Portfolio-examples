@@ -5,9 +5,9 @@ All the projects i've created in one place
 
 ## 📚 Table of Contents
 
-- 🗄️ [SQL](#sql)
-- 🐍 [Python](#python)
-- 📊 [Power BI](#power-bi)
+- 🗄️ [SQL](#%EF%B8%8F-sql)
+- 🐍 [Python](#-python)
+- 📊 [Power BI](#-power-bi)
 - 📓 [Jupyter](#jupyter)
 - ⏱️ [Time Series Classification Project](#time-series-classification-project)
 
