@@ -1,6 +1,7 @@
-# Portfolio
-All the projects i've created in one place
+# 🗂️ Athena's Data Projects
 
+Welcome to my **data projects portfolio**!  
+Explore my work organized by **tools and technologies** I’ve used.
 ---
 
 ## 📚 Table of Contents
