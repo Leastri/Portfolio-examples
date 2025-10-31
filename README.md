@@ -9,7 +9,7 @@ All the projects i've created in one place
 - 🐍 [Python](#-python)
 - 📊 [Power BI](#-power-bi)
 - 📓 [Jupyter](#-jupyter)
-- ⏱️ [Time Series Classification Project](#time-series-classification-project)
+- ⏱️ [Time Series Classification Project](#%EF%B8%8F-time-series-classification-project)
 
 
 ---
